@@ -8,7 +8,7 @@ namespace Arrays
 	{
 		static void ShowArray(string name, params int[] array)
 		{
-            Console.Write("Hello main");
+            Console.Write("Hello Dev1");
             Console.Write(name);
 				int s = 1;
 
